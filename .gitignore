@@ -1,0 +1,12 @@
+.env
+.env.*
+*.log
+*.pfx
+*.pem
+*.key
+*.p12
+*.exe
+*.dll
+*.zip
+*.tar.gz
+node_modules/
