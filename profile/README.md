@@ -37,6 +37,12 @@ Second Dawn builds **free, open-source desktop apps** that run **fully on your o
 
 Models are published on [Hugging Face](https://huggingface.co/Second-Dawn-Lab).
 
+## Code signing policy
+
+Free code signing provided by [SignPath.io](https://signpath.io), certificate by [SignPath Foundation](https://signpath.org). Our apps' installers are built from the public source on GitHub Actions, and every signing request is approved manually. Details: the [Owl-L code signing policy](https://github.com/Second-Dawn-Lab/owll/blob/main/docs/CODE_SIGNING_POLICY.md).
+
+**Privacy:** our programs do not transfer any information to other networked systems unless specifically requested by the user or the person installing or operating them. Security reports: see the [security policy](https://github.com/Second-Dawn-Lab/owll/blob/main/SECURITY.md). Conduct: [Code of Conduct](https://github.com/Second-Dawn-Lab/owll/blob/main/CODE_OF_CONDUCT.md).
+
 ## Contributing
 
 Contributions, ideas and translations are very welcome. See [CONTRIBUTING](https://github.com/Second-Dawn-Lab/.github/blob/main/CONTRIBUTING.md).
