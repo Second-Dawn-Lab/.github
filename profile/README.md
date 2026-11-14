@@ -5,6 +5,14 @@
 <p align="center"><b>Free, offline, private apps.</b></p>
 <p align="center"><i>Software that rises again: free, offline, private.</i></p>
 
+<p align="center">
+  <a href="https://github.com/Second-Dawn-Lab/owll/releases/latest"><b>⬇ Download Owl-L for Windows</b></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Second-Dawn-Lab/owll"><img src="https://raw.githubusercontent.com/Second-Dawn-Lab/owll/main/docs/images/hero.png" alt="Owl-L, the offline translator: English text translated to German, polished by the optional Quality mode" width="720" /></a>
+</p>
+
 ---
 
 ## What is Second Dawn?
@@ -15,7 +23,7 @@ Second Dawn builds **free, open-source desktop apps** that run **fully on your o
 
 | App | What it does | Status |
 |---|---|---|
-| 🦉 **[Owl-L](https://github.com/Second-Dawn-Lab/owll)** | Offline translator: text, Ctrl+C+C popups and screen-area translation | 🚧 Available soon |
+| 🦉 **[Owl-L](https://github.com/Second-Dawn-Lab/owll)** | Offline translator: text, documents, Ctrl+C+C popups, screen-area translation, live captions and an optional local AI Quality mode | ✅ [Download](https://github.com/Second-Dawn-Lab/owll/releases/latest) (Windows 10/11) |
 | 🪹 **Nest** | One place to install, update and manage all Second Dawn apps | ⏳ Coming later |
 | ➕ *More coming* | Got an idea? Open an issue! | — |
 
